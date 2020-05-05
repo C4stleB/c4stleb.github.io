@@ -11,18 +11,18 @@ site-twitter:
 # Author Settings
 author: Chung Jeon 
 author-img: profile.jpg 
-about-author: I am a infra engineer focusing on devops. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: c4stleb # add your Github handle
-social-linkedin: chung-jeon-973a3b161 # add your Linkedin handle
-social-email: ichung91@naver.com # add your Email address
+about-author: I am an infra engineer focusing on Cloud service. Always hungry to keep learning. 
+social-instagram: blue_pot91
+social-github: c4stleb 
+social-linkedin: chung-jeon-973a3b161 
+social-email: ichung91@naver.com 
 
 # Disqus
-discus-identifier: c4stleb # add your discus identifier
+discus-identifier: c4stleb 
 
 # Tracker
-analytics: # Google Analytics
+# Google Analytics
+analytics: c4stleb 
 
 # Build Settings
 markdown: kramdown
