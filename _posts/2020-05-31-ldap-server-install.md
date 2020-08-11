@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "LDAP Serverインストール"
-date: 2020-05-24 12:00:00 +0300
+date: 2020-05-31 12:00:00 +0300
 description: 
 img: ldap.jpg
 ---
 
-ここでは、LDAPのサーバーをインストールする。  
+今回はLDAPのサーバーをインストールしてみよう。  
 まずはOSバージョンから確認する。
 ```
 $ grep . /etc/*-release
