@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Raleway);
-@import url(https://fonts.googleapis.com/css2?family=Kosugi&display=swap);
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -775,7 +774,7 @@ html {
 }
 
 body {
-  font-family: 'Kosugi','Montserrat', sans-serif;
+  font-family: 'Noto Sans JP','Montserrat', sans-serif;
   color: #515151;
   background-color: #edf3f3;
   margin: 0;
@@ -1166,7 +1165,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'Kosugi','Montserrat', sans-serif;
+  font-family: 'Noto Sans JP','Montserrat', sans-serif;
   text-decoration: none;
   color: #263959;
 }
