@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LDAP Serverインストール"
+title: "LDAP Serverのインストール"
 date: 2020-05-31 12:00:00 +0300
 description: 
 img: ldap.jpg
