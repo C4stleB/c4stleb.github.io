@@ -6,7 +6,7 @@ description:
 img: docker-swarm-gonkar-it-security.png
 ---
 
-## サーバオーケストラレーションとは
+## サーバオーケストラレーション(Server Orchestration)とは
 
 サーバオーケストラレーションという用語は曖昧な意味を持っている。簡単に定義すると、**複数のサーバと複数のサービスを便利に管理する作業**であると言える。実際にはスケジューリング`scheduling`、クラスタリング`clustering`、サービスディスカバリー`service discovery`、ロギング`logging`、モニタリング`monitoring`などの作業を行う。
 
