@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(EX407) Red Hat Certified Specialist in Ansible Automation"
-date: 2020-06-21 12:00:00 +0300
+date: 2020-09-21 12:00:00 +0300
 description: 
 img: ansible.jpg
 ---
