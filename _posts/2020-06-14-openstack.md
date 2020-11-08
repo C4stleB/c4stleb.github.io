@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Openstack"
+title: "Openstackとは"
 date: 2020-06-14 12:00:00 +0300
 description: 
 img: openstack.png
