@@ -46,7 +46,8 @@ h1 {
   margin: 0.67em 0;
 }
 
-h2, h3 {
+
+.wrap-content h1, .wrap-content h2, .wrap-content h3 {
   color: #263959;
 }
 
