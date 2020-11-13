@@ -3,7 +3,7 @@ layout: post
 title: "LDAP Serverのインストール"
 date: 2020-05-31 12:00:00 +0300
 description: 
-img: openldap.png
+img: thumbnail/openldap.png
 ---
 
 今回はLDAPのサーバーをインストールしてみよう。  
@@ -34,7 +34,7 @@ $ grep . /etc/*-release
 $ sudo yum -y install openldap compat-openldap openldap-clients openldap-servers openldap-servers-sql openldap-devel
 ```
 
-インストールが終わったらsladp  (openldap)を実行し、常に実行するように登録する。
+インストールが終わったらsladp(openldap)を実行し、常に実行するように登録する。
 ```
 $ systemctl start slapd
 $ systemctl enable slapd

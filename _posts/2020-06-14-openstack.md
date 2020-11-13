@@ -3,24 +3,24 @@ layout: post
 title: "Openstackとは"
 date: 2020-06-14 12:00:00 +0300
 description: 
-img: openstack.png
+img: thumbnail/openstack.png
 ---
 
 ## Openstackとは
-クラウドに関わっている開発者なら、Openstackという単語を少なくとも一度は聞いたことがあるだろう。 Openstackは、RackspaceとNASAからスタートしたIaaS(Infrastructure as a Service)を構築するソフトウェアで、グローバルIT企業の多くが参加しているオープンソースプロジェクトである。IaaSという言葉からも分かるように、**クラウドインフラに必要なサーバの仮想化、ストレージの仮想化、ネットワークの仮想化技術を総合的に実現する。**
+クラウドに関わっている開発者なら、Openstackという単語を少なくとも一度は聞いたことがあるだろう。Openstackは、RackspaceとNASAからスタートしたIaaS(Infrastructure as a Service)を構築するソフトウェアで、グローバルIT企業の多くが参加しているオープンソースプロジェクトである。IaaSという言葉からも分かるように、**クラウドインフラに必要なサーバの仮想化、ストレージの仮想化、ネットワークの仮想化技術を総合的に実現する。**
 
 ## なぜ使うのか
 クラウドコンピューティングに使用するサーバを制御するためには、専門的なハードウェア知識とサーバを運営するオペレーティングシステムの知識が必要となるが、これはどのハードウェアとオペレーティングシステムを使用するかによって異なり、環境が変わるたびに新しい知識を習得しなければならない問題がある。
 
 このような問題を解決するために、**サーバのハードウェアやOSを問わず、クラウドコンピューティング開発の標準を提供するのがオープンスタックである。**
 
-![Openstackの構造](../assets/img/openstack_structure.png)
+![Openstackの構造](../assets/img/openstack/openstack_structure.png)
 > Hardware, Hypervisor上でShared Serviceの形でCompute, Networking, Storageを制御するサービスを提供する(https://www.cio.com/article/2379588/an-openstack-primer-for-it-executives.html)
 
 Compute、Networking、Storageなどを管理できるAPIを提供し、これを管理するDashboardで開発者が簡単にクラウドコンピューティング環境で作業できるようにサポートするサービスである。また、Hardware、Hypervisor関連作業はすべてオープンスタックが処理するため、開発者はApplicationを作る作業に集中できる。
 
 ## Openstackのサービス
-![Openstackのサービス](../assets/img/openstack_services.jpg)
+![Openstackのサービス](../assets/img/openstack/openstack_services.jpg)
 > Openstackのサービス(https://sios.jp/products/redhat/rhel/openstack/)
 
 1. Horizon (Dashboard)

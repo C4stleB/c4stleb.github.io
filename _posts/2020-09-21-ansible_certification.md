@@ -3,12 +3,12 @@ layout: post
 title: "(EX407) Red Hat Certified Specialist in Ansible Automation"
 date: 2020-09-21 12:00:00 +0300
 description: 
-img: ansible.jpg
+img: thumbnail/ansible.jpg
 ---
 
 この前、Red Hat Certified Specialist in Ansible Automation(RHCSAA)の資格が取れたので、その情報を共有する。
 
-![資格証明書](../assets/img/rhcsaa.png)
+![資格証明書](../assets/img/ansible/rhcsaa.png)
 
 ## RHCSAAとは？  
 Red Hatが認証するAnsibleの資格のこと。Ansibleの資格ではあるものの、基本的にLinuxに対してRHCEレベルの基本知識を応用するので注意。

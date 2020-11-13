@@ -3,7 +3,7 @@ layout: post
 title: "Dockerのインストール"
 date: 2020-07-26 12:00:00 +0300
 description: 
-img: docker.png
+img: thumbnail/docker.png
 ---
 
 ドッカーはLinuxのコンテナ技術なので、macOSやWindowsにインストールする場合は仮想マシンを利用する。
@@ -29,7 +29,7 @@ sudo usermod -aG docker your-user # your-userというユーザーに権限を�
 
 ドッカーをMacやWindowsにインストールするには、Docker  for  macまたはDocker  for  windowsをインストールする。ファイルをダウンロード・インストールして、リブートすれば、ほとんど問題なく完了する。細かいオプションがあるが、普通なら特に触れる部分はない。(ただし、Windowsは共有ドライブを選択すること)
 
-![Docker for Mac](../assets/img/docker-for-mac.png)
+![Docker for Mac](../assets/img/docker/docker-for-mac.png)
 > Docker for Mac(https://docs.docker.com/docker-for-mac/)
 
 まるでネイティブアプリのようにインストールされたようだが、ドッカーはリナックスコンテナなので、実際には仮想マシンにインストールされている。ユーザーは仮想マシンを使っているという気が全くしない。 例えば、ポートを接続するためには、もともとならドッカーコンテナの特定のポートを仮想マシンに接続し、再びmacやWindowsのポートと接続しなければならない。ディレクトリをつなげると、ディレクトリを仮想マシンと共有し、そのディレクトリをコンテナとつなげる必要がある。このような1段階追加的に操作しなければならない部分を自然に処理してくれる。

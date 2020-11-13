@@ -3,7 +3,7 @@ layout: post
 title: "Server Orchestration"
 date: 2020-05-10 12:00:00 +0300
 description: 
-img: docker-swarm-gonkar-it-security.png
+img: thumbnail/docker-swarm-gonkar-it-security.png
 ---
 
 ## サーバオーケストラレーション(Server Orchestration)とは

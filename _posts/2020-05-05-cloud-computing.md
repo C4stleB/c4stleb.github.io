@@ -3,7 +3,7 @@ layout: post
 title: "Cloud Computing"
 date: 2020-05-05 12:00:00 +0300
 description: 
-img: cloud-compute.jpg 
+img: thumbnail/cloud-compute.jpg 
 ---
 
 ## クラウドコンピューティング(Cloud Computing)とは
@@ -16,7 +16,7 @@ img: cloud-compute.jpg
 
 もちろん、クラウド・コンピューティングは、このようなモデルだけを持つわけではない。各使用目的によって大きく3つのモデルが存在する。
 
-![3つのクラウド・コンピューティング・モデル](../assets/img/saas-vs-paas-vs-iaas.png)
+![3つのクラウド・コンピューティング・モデル](../assets/img/cloud/saas-vs-paas-vs-iaas.png)
 > 3つのクラウド・コンピューティング・モデル(https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 
 ## 3つのクラウド・コンピューティング・モデル

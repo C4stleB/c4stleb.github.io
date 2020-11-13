@@ -3,7 +3,7 @@ layout: post
 title: "Dockerでコンテナ起動"
 date: 2020-08-16 12:00:00 +0300
 description: 
-img: docker.png
+img: thumbnail/docker.png
 ---
 
 ## コンテナの実行コマンド
